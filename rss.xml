@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="../../styles/rss.xsl"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+         xmlns:media="http://search.yahoo.com/mrss/">    
+
+    <channel rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures">
+        
+        <title>6.041 / 6.431 Probabilistic Systems Analysis and Applied Probability | Video Lectures</title>
+        
+        <description>This section contains lecture slides and video lectures.</description>
+        
+        <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures</link>
+        
+        <dc:date>2014-07-25T23:24:52+05:00</dc:date>
+        
+        <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+        
+        <dc:language>en-US</dc:language>
+        
+        <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+        
+        <items>
+        
+            <rdf:Seq>
+            
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-1-probability-models-and-axioms"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-2-conditioning-and-bayes-rule"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-3-independence"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-4-counting"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-5-discrete-variables-probability-expectations"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-6-discrete-random-variable-examples-joint-pmfs"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-7-multiple-variables-expectations-independence"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-8-continuous-random-variables"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-9-multiple-continuous-random-variables"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-10-continuous-bayes-rule-derived-distributions"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-11-derived-distributions-convolution-correlation"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-12-iterated-expectations-sum-of-a-random-number-of-random-variables"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-13-bernoulli-process"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-14-poisson-process-i"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-15-poisson-process-ii"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-16-markov-chains-i"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-17-markov-chains-ii"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-18-markov-chains-iii"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-19-weak-law-of-large-numbers"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-20-the-central-limit-theorem"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-21-bayesian-statistical-inference-i"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-22-bayesian-statistical-inference-ii"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-23-classical-statistical-inference-i"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-24-classical-inference-ii"/>
+                <rdf:li rdf:resource="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-25-classical-inference-iii-course-overview"/>
+            
+            </rdf:Seq>
+        
+        </items>
+        
+    </channel>
+    
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-1-probability-models-and-axioms">
+          
+          <title>Lecture 1: Probability Models and Axioms</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed probability as a mathematical framework, probabilistic models, axioms of probability, and gave some simple examples.&lt;/p&gt;   &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: probability axioms, probability law, discrete uniform law, countable additivity axiom&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-1-probability-models-and-axioms/MIT6_041F11_lec01_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-1-probability-models-and-axioms/MIT6_041F11_lec01_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/j9WZyLZCBzs/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec01_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-1-probability-models/id577778306?i=123745364&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/j9WZyLZCBzs&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-1-probability-models-and-axioms</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>probability axioms</dc:subject>
+          <dc:subject>probability law</dc:subject>
+          <dc:subject>discrete uniform law</dc:subject>
+          <dc:subject>countable additivity axiom</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-2-conditioning-and-bayes-rule">
+          
+          <title>Lecture 2: Conditioning and Bayes' Rule</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed conditional probability, multiplication rule, total probability theorem, and Bayes' rule.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: conditional probability, die roll, multiplication rule, total probability theorem, Bayes' rule&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-2-conditioning-and-bayes-rule/MIT6_041F11_lec02_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-2-conditioning-and-bayes-rule/MIT6_041F11_lec02_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/TluTv5V0RmE/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec02_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-2-conditioning-bayes/id577778306?i=123745363&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/TluTv5V0RmE&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-2-conditioning-and-bayes-rule</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>conditional probability</dc:subject>
+          <dc:subject>die roll</dc:subject>
+          <dc:subject>multiplication rule</dc:subject>
+          <dc:subject>total probability theorem</dc:subject>
+          <dc:subject>Bayes' rule</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-3-independence">
+          
+          <title>Lecture 3: Independence</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed independence of two events, independence of a collection of events, and independence vs. pairwise independence.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: conditional independence, pairwise independence&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-3-independence/MIT6_041F11_lec03_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-3-independence/MIT6_041F11_lec03_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/19Ql_Q3l0GA/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec03_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-3-independence/id577778306?i=123745366&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/19Ql_Q3l0GA&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-3-independence</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>conditional independence</dc:subject>
+          <dc:subject>pairwise independence</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-4-counting">
+          
+          <title>Lecture 4: Counting</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed principles of counting, permutations, combinations, partitions, and binomial probabilities.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: discrete uniform law, permutations, combinations, partitions, binomial probabilities&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-4-counting/MIT6_041F11_lec04_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-4-counting/MIT6_041F11_lec04_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/6oV3pKLgW2I/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec04_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-4-counting/id577778306?i=123745412&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/6oV3pKLgW2I&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-4-counting</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>discrete uniform law</dc:subject>
+          <dc:subject>permutations</dc:subject>
+          <dc:subject>combinations</dc:subject>
+          <dc:subject>partitions</dc:subject>
+          <dc:subject>binomial probabilities</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-5-discrete-variables-probability-expectations">
+          
+          <title>Lecture 5: Discrete Random Variables; Probability Mass Functions; Expectations</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed random variables, probability mass function, expectation, and variance.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: random variables, probability mass function, expectation, variance&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-5-discrete-variables-probability-expectations/MIT6_041F11_lec05_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-5-discrete-variables-probability-expectations/MIT6_041F11_lec05_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/3MOahpLxj6A/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec05_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-5-discrete-random/id577778306?i=123745365&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/3MOahpLxj6A&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-5-discrete-variables-probability-expectations</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>random variables</dc:subject>
+          <dc:subject>probability mass function</dc:subject>
+          <dc:subject>expectation</dc:subject>
+          <dc:subject>variance</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-6-discrete-random-variable-examples-joint-pmfs">
+          
+          <title>Lecture 6: Discrete Random Variable Examples; Joint PMFs</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed conditional PMF, geometric PMF, total expectation theorem, and joint PMF of two random variables.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: conditional PMF, geometric PMF, total expectation theorem&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-6-discrete-random-variable-examples-joint-pmfs/MIT6_041F11_lec06_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-6-discrete-random-variable-examples-joint-pmfs/MIT6_041F11_lec06_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/-qCEoqpwjf4/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec06_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-6-discrete-random/id577778306?i=123745367&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/-qCEoqpwjf4&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-6-discrete-random-variable-examples-joint-pmfs</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>conditional PMF</dc:subject>
+          <dc:subject>geometric PMF</dc:subject>
+          <dc:subject>total expectation theorem</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-7-multiple-variables-expectations-independence">
+          
+          <title>Lecture 7: Multiple Discrete Random Variables: Expectations, Conditioning, Independence</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed multiple random variables, expectations, and binomial distribution.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: multiple random variables, expectations, binomial distribution&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-7-multiple-variables-expectations-independence/MIT6_041F11_lec07_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-7-multiple-variables-expectations-independence/MIT6_041F11_lec07_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/EObHWIEKGjA/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec07_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-7-discrete-random/id577778306?i=123745410&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/EObHWIEKGjA&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-7-multiple-variables-expectations-independence</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>multiple random variables</dc:subject>
+          <dc:subject>expectations</dc:subject>
+          <dc:subject>binomial distribution</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-8-continuous-random-variables">
+          
+          <title>Lecture 8: Continuous Random Variables</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed probability density functions, cumulative distribution functions, and normal random variables.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: probability density function, cumulative distribution functions, means and variances, normal random variables&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-8-continuous-random-variables/MIT6_041F11_lec08_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-8-continuous-random-variables/MIT6_041F11_lec08_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/mHfn_7ym6to/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec08_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-8-continuous-random/id577778306?i=123745414&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/mHfn_7ym6to&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-8-continuous-random-variables</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>probability density function</dc:subject>
+          <dc:subject>cumulative distribution functions</dc:subject>
+          <dc:subject>means and variances</dc:subject>
+          <dc:subject>normal random variables</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-9-multiple-continuous-random-variables">
+          
+          <title>Lecture 9: Multiple Continuous Random Variables</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed multiple random variables: conditioning and independence.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: probability density function, multiple random variable&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-9-multiple-continuous-random-variables/MIT6_041F11_lec09_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-9-multiple-continuous-random-variables/MIT6_041F11_lec09_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/CadZXGNauY0/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec09_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-9-multiple-continuous/id577778306?i=123745368&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/CadZXGNauY0&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-9-multiple-continuous-random-variables</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>probability density function</dc:subject>
+          <dc:subject>multiple random variable</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-10-continuous-bayes-rule-derived-distributions">
+          
+          <title>Lecture 10: Continuous Bayes' Rule; Derived Distributions</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed Bayes rule, Bayes variations, and derived distributions.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: Bayes rule, Bayes variations, derived distribution&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-10-continuous-bayes-rule-derived-distributions/MIT6_041F11_lec10_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-10-continuous-bayes-rule-derived-distributions/MIT6_041F11_lec10_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/H_k1w3cfny8/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec10_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-10-continuous-bayes/id577778306?i=123745369&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/H_k1w3cfny8&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-10-continuous-bayes-rule-derived-distributions</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>Bayes rule</dc:subject>
+          <dc:subject>Bayes variations</dc:subject>
+          <dc:subject>derived distribution</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-11-derived-distributions-convolution-correlation">
+          
+          <title>Lecture 11: Derived Distributions; Convolution; Covariance and Correlation</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed derived distributions, convolution, covariance and correlation.&lt;/p&gt;    &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: Derived distributions, convolution, covariance, correlation&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-11-derived-distributions-convolution-correlation/MIT6_041F11_lec11_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-11-derived-distributions-convolution-correlation/MIT6_041F11_lec11_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/l4NoMKEHQwM/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec11_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-11-derived-distributions/id577778306?i=123745362&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/l4NoMKEHQwM&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-11-derived-distributions-convolution-correlation</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>Derived distributions</dc:subject>
+          <dc:subject>convolution</dc:subject>
+          <dc:subject>covariance</dc:subject>
+          <dc:subject>correlation</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-12-iterated-expectations-sum-of-a-random-number-of-random-variables">
+          
+          <title>Lecture 12: Iterated Expectations; Sum of a Random Number of Random Variables</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed conditional expectation and sum of a random number of random variables.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: Iterated expectation, conditional expectation, means and variances&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-12-iterated-expectations-sum-of-a-random-number-of-random-variables/MIT6_041F11_lec12_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-12-iterated-expectations-sum-of-a-random-number-of-random-variables/MIT6_041F11_lec12_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/P7a4bjE6Crk/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec12_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-12-iterated-expectations/id577778306?i=123745427&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/P7a4bjE6Crk&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-12-iterated-expectations-sum-of-a-random-number-of-random-variables</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>Iterated expectation</dc:subject>
+          <dc:subject>conditional expectation</dc:subject>
+          <dc:subject>means and variances</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-13-bernoulli-process">
+          
+          <title>Lecture 13: Bernoulli Process</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed Bernoulli process, random processes, basic properties of Bernoulli process, distribution of interarrival times, the time of the kth success, merging and splitting.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: Bernoulli process, random processes, merging, splitting&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-13-bernoulli-process/MIT6_041F11_lec13_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-13-bernoulli-process/MIT6_041F11_lec13_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/gMTiAeE0NCw/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec13_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-13-bernoulli-process/id577778306?i=123745411&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/gMTiAeE0NCw&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-13-bernoulli-process</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>Bernoulli process</dc:subject>
+          <dc:subject>random processes</dc:subject>
+          <dc:subject>merging</dc:subject>
+          <dc:subject>splitting</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-14-poisson-process-i">
+          
+          <title>Lecture 14: Poisson Process I</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed Poisson process, distribution of number of arrivals, and distribution of interarrival times.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: Poisson process, Time homogeneity, Erlang distribution&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-14-poisson-process-i/MIT6_041F11_lec14_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-14-poisson-process-i/MIT6_041F11_lec14_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/jsqSScywvMc/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec14_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-14-poisson-process-i/id577778306?i=123745413&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/jsqSScywvMc&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-14-poisson-process-i</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>Poisson process</dc:subject>
+          <dc:subject>Time homogeneity</dc:subject>
+          <dc:subject>Erlang distribution</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-15-poisson-process-ii">
+          
+          <title>Lecture 15: Poisson Process II</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed Poisson process, merging, splitting, and random incidence.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: Poisson process, merging, splitting, random incidence&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-15-poisson-process-ii/MIT6_041F11_lec15_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-15-poisson-process-ii/MIT6_041F11_lec15_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/XsYXACeIklU/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec15_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-15-poisson-process-ii/id577778306?i=123745428&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/XsYXACeIklU&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-15-poisson-process-ii</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>Poisson process</dc:subject>
+          <dc:subject>merging</dc:subject>
+          <dc:subject>splitting</dc:subject>
+          <dc:subject>random incidence</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-16-markov-chains-i">
+          
+          <title>Lecture 16: Markov Chains I</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed Markov process definition, n-step transition probabilities, and classification of states.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: Markov process, finite state Markov chains, n-step transition probabilities, recurrent state, transient state&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-16-markov-chains-i/MIT6_041F11_lec16_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-16-markov-chains-i/MIT6_041F11_lec16_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/IkbkEtOOC1Y/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec16_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-16-markov-chains-i/id577778306?i=123745457&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/IkbkEtOOC1Y&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-16-markov-chains-i</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>Markov process</dc:subject>
+          <dc:subject>finite state Markov chains</dc:subject>
+          <dc:subject>n-step transition probabilities</dc:subject>
+          <dc:subject>recurrent state</dc:subject>
+          <dc:subject>transient state</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-17-markov-chains-ii">
+          
+          <title>Lecture 17: Markov Chains II</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed Markov process, steady-state behavior, and birth-death processes.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: Markov process, steady-state, recurrent state, transient state, periodic state&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-17-markov-chains-ii/MIT6_041F11_lec17_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-17-markov-chains-ii/MIT6_041F11_lec17_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/ZulMqrvP-Pk/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec17_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-17-markov-chains-ii/id577778306?i=123745453&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/ZulMqrvP-Pk&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-17-markov-chains-ii</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>Markov process</dc:subject>
+          <dc:subject>steady-state</dc:subject>
+          <dc:subject>recurrent state</dc:subject>
+          <dc:subject>transient state</dc:subject>
+          <dc:subject>periodic state</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-18-markov-chains-iii">
+          
+          <title>Lecture 18: Markov Chains III</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed Markov Processes, probability of blocked phone calls, absorption probabilities, and calculating expected time to absorption.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: Markov Processes, absorption probability, recurrent state, transient state&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-18-markov-chains-iii/MIT6_041F11_lec18_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-18-markov-chains-iii/MIT6_041F11_lec18_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/HIMxdWDLEK8/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec18_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-18-markov-chains-iii/id577778306?i=123745455&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/HIMxdWDLEK8&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-18-markov-chains-iii</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>Markov Processes</dc:subject>
+          <dc:subject>absorption probability</dc:subject>
+          <dc:subject>recurrent state</dc:subject>
+          <dc:subject>transient state</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-19-weak-law-of-large-numbers">
+          
+          <title>Lecture 19: Weak Law of Large Numbers</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed limit theorems, Chebyshev's inequality, and convergence &amp;quot;in probability&amp;quot;.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: limit theorems, Chebyshev's inequality, convergence&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-19-weak-law-of-large-numbers/MIT6_041F11_lec19_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-19-weak-law-of-large-numbers/MIT6_041F11_lec19_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/3eiio3Tw7UQ/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec19_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-19-weak-law-large/id577778306?i=123745452&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/3eiio3Tw7UQ&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-19-weak-law-of-large-numbers</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>limit theorems</dc:subject>
+          <dc:subject>Chebyshev's inequality</dc:subject>
+          <dc:subject>convergence</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-20-the-central-limit-theorem">
+          
+          <title>Lecture 20: Central Limit Theorem</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed central limit theorem, Normal approximation, 1/2 correction for binomial approximation, and De Moivre&amp;ndash;Laplace central limit theorem.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: central limit theorem, Normal approximation, binomial approximation, De Moivre–Laplace CLT&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-20-the-central-limit-theorem/MIT6_041F11_lec20_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-20-the-central-limit-theorem/MIT6_041F11_lec20_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/Tx7zzD4aeiA/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec20_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-20-central-limit-theorem/id577778306?i=123745454&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/Tx7zzD4aeiA&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-20-the-central-limit-theorem</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>central limit theorem</dc:subject>
+          <dc:subject>Normal approximation</dc:subject>
+          <dc:subject>binomial approximation</dc:subject>
+          <dc:subject>De Moivre–Laplace CLT</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-21-bayesian-statistical-inference-i">
+          
+          <title>Lecture 21: Bayesian Statistical Inference I</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed Bayesian statistical inference and inference models.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The first few minutes of this video are missing.&lt;/p&gt;Keywords: Bayesian inference, Bayes rule, least mean square&lt;br&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-21-bayesian-statistical-inference-i/MIT6_041F11_lec21_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/1jDBM9UM9xk/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec21_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-21-bayesian-statistical/id577778306?i=123745450&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/1jDBM9UM9xk&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-21-bayesian-statistical-inference-i</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>Bayesian inference</dc:subject>
+          <dc:subject>Bayes rule</dc:subject>
+          <dc:subject>least mean square</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-22-bayesian-statistical-inference-ii">
+          
+          <title>Lecture 22: Bayesian Statistical Inference II</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed Bayesian statistical inference, least means squares, and linear LMS estimation.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: Bayesian statistical inference, least means squares&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-22-bayesian-statistical-inference-ii/MIT6_041F11_lec22_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-22-bayesian-statistical-inference-ii/MIT6_041F11_lec22_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/XtNXQJkgkhI/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec22_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-22-bayesian-statistical/id577778306?i=123745456&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/XtNXQJkgkhI&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-22-bayesian-statistical-inference-ii</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>Bayesian statistical inference</dc:subject>
+          <dc:subject>least means squares</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-23-classical-statistical-inference-i">
+          
+          <title>Lecture 23: Classical Statistical Inference I</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed classical statistics, maximum likelihood (ML) estimation, and confidence intervals.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: classical statistics, maximum likelihood, confidence interval&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-23-classical-statistical-inference-i/MIT6_041F11_lec23_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-23-classical-statistical-inference-i/MIT6_041F11_lec23_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/4UJc0S8APm4/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec23_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-23-classical-statistical/id577778306?i=123745458&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/4UJc0S8APm4&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-23-classical-statistical-inference-i</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>classical statistics</dc:subject>
+          <dc:subject>maximum likelihood</dc:subject>
+          <dc:subject>confidence interval</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-24-classical-inference-ii">
+          
+          <title>Lecture 24: Classical Inference II</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed classical inference, Linear regression, and binary hypothesis testing.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: classical inference, Linear regression, binary hypothesis&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-24-classical-inference-ii/MIT6_041F11_lec24_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-24-classical-inference-ii/MIT6_041F11_lec24_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/tBUHRpFZy0s/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec24_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-24-classical-inference/id577778306?i=123745429&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/tBUHRpFZy0s&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-24-classical-inference-ii</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>classical inference</dc:subject>
+          <dc:subject>Linear regression</dc:subject>
+          <dc:subject>binary hypothesis</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    <item rdf:about="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-25-classical-inference-iii-course-overview">
+          
+          <title>Lecture 25: Classical Inference III; Course Overview</title>
+          
+          <description>&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; In this lecture, the professor discussed classical inference, simple binary hypothesis testing, and composite hypotheses testing.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; John Tsitsiklis&lt;/p&gt;Keywords: classical inference, binary hypothesis, composite hypotheses&lt;br&gt;&lt;br&gt;Transcript: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-25-classical-inference-iii-course-overview/MIT6_041F11_lec25_300k.pdf&gt;PDF (English - US)&lt;/a&gt;&lt;br&gt;Subtitles: &lt;a href= /courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-25-classical-inference-iii-course-overview/MIT6_041F11_lec25_300k.srt&gt;SRT&lt;/a&gt;&lt;br&gt;Thumbnail - &lt;a href= http://img.youtube.com/vi/rYefUsYuEp0/default.jpg&gt;JPG (YouTube)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= http://www.archive.org/download/MIT6.041F10/MIT6_041F11_lec25_300k.mp4&gt;Internet Archive (MP4)&lt;/a&gt;&lt;br&gt;Video - download: &lt;a href= https://itunes.apple.com/us/itunes-u/lecture-25-classical-inference/id577778306?i=123745451&gt;iTunes U (MP4)&lt;/a&gt;&lt;br&gt;Video - stream: &lt;a href= http://www.youtube.com/v/rYefUsYuEp0&gt;YouTube &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href= 'http://ocw.mit.edu/terms/'&gt;(CC BY-NC-SA)&lt;/a&gt;&lt;br&gt;&lt;br&gt;</description>
+          
+          <link>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/lecture-25-classical-inference-iii-course-overview</link>
+          
+          <dc:creator>Tsitsiklis, John</dc:creator>
+          
+          <dc:date>2011-03-10T07:04:12+05:00</dc:date>
+          
+          <dc:language>en-US</dc:language>
+          
+          <dc:subject>classical inference</dc:subject>
+          <dc:subject>binary hypothesis</dc:subject>
+          <dc:subject>composite hypotheses</dc:subject>
+          
+          <dc:publisher>MIT OpenCourseWare http://ocw.mit.edu</dc:publisher>
+          
+          <dc:rights>Content within individual OCW courses is (c) by the individual authors unless otherwise noted. MIT OpenCourseWare materials are licensed by the Massachusetts Institute of Technology under a Creative Commons License (Attribution-NonCommercial-ShareAlike). For further information see http://ocw.mit.edu/terms/index.htm</dc:rights>
+          
+    </item>
+    
+</rdf:RDF>
