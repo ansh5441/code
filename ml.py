@@ -27,8 +27,8 @@ def w1():
 	num = 0
 	c = 0
 	iter = 500
-	for i in range(400):
-		N = 100
+	for i in range(1000):
+		N = 10
 		f = [2 * random.random() - 1, 2 * random.random() - 1, 2 * random.random() - 1, 2 * random.random() - 1]
 		x = []
 		y = []
@@ -61,16 +61,12 @@ def w1():
 		if (count != iter):
 			sum = sum + count
 			num = num + 1
-		
-		for i in range(100):
+		for j in range(100):
 			x = [1, 2 * random.random() - 1, 2 * random.random() - 1]
 			if (res2(w,x) == res(f,x)):
 				c = c + 1
-	print(c/100000)
-	print(sum)
-	print(num)
 	print(sum/num)
-	
+	print(1 - c/100000)	
 
 
 
