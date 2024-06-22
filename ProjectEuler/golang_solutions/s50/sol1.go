@@ -1,6 +1,6 @@
 package s50
 
-func Sol1() {
+func Sol1() int {
 	// Problem 1
 	var sum int = 0
 	for i := 0; i < 1000; i++ {
@@ -8,5 +8,5 @@ func Sol1() {
 			sum += i
 		}
 	}
-	println(sum)
+	return sum
 }
